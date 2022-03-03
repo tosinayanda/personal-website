@@ -75,7 +75,7 @@ export default function Home() {
               </p>
 
               <p>
-                When I'm not working on professional projects, I enjoy watching new movies/tv shows, blogging , and playing video games.</p>
+                When I'm not working on professional projects, I enjoy watching new movies/tv shows, writing , and playing video games.</p>
 
               <a className="status" href="resume.pdf" target="_blank">
                 <div className="status__light">
