@@ -20,10 +20,10 @@ export default function Home() {
         <link rel="stylesheet" type="text/css" href='https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,900,900italic,700italic' />
         <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet" />
         <link rel="stylesheet" href="/css/stylesv4.css" lang="en-us" />
-        <Script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js' type="text/javascript" />
-        <Script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js" />
-        <Script src="/js/mainv4.js" type="text/javascript" />
       </Head>
+      <Script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js' type="text/javascript" />
+      <Script src="https://unpkg.com/scrollreveal/dist/scrollreveal.min.js" />
+      <Script src="/js/mainv4.js" type="text/javascript" />
       <main>
         <div id="site">
 
