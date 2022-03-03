@@ -1,3 +1,17 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next",
+  "rules": {
+    "react/no-unescaped-entities": "off",
+    "@next/next/no-page-custom-font": "off",
+    "react/jsx-no-target-blank":"off"
+  }
+
+  /*"extends": "next/core-web-vitals",
+  "react/jsx-no-target-blank": [<enabled>, {
+    "allowReferrer": <allow-referrer>,
+    "enforceDynamicLinks": <enforce>,
+    "warnOnSpreadAttributes": <warn>,
+    "links": <boolean>,
+    "forms": <boolean>,
+  }] */
 }
